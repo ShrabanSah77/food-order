@@ -1,8 +1,9 @@
 import './App.css';
+import Home from './screens/Home';
 
 function App() {
   return (
-    <div>Hello world</div>
+    <div><Home/></div>
   );
 }
 
